@@ -1,4 +1,4 @@
-# Detaile Explanation
+# Detailed Explanation
 
 ## 🔹 `Wrapper` Component
 
